@@ -261,7 +261,7 @@ void Error_Handler(void)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  
- ![Screenshot 2024-10-21 220629](https://github.com/user-attachments/assets/39efa203-10ef-4085-b5f0-d1d906dd9592)
+![WhatsApp Image 2024-11-16 at 14 11 41_7b154683](https://github.com/user-attachments/assets/768c97c2-d6aa-4d86-bbf8-4facb79a38d5)
 
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
